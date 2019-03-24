@@ -29,8 +29,6 @@
 		}
 	},
 	"autoload-dev" : {
-		"psr-4" : {
-			"Amylian\\Doctrine\\Common\\tests\\" : "tests/"
-		}
-	},
+		"psr-4" : {}
+	}
 }
