@@ -14,5 +14,4 @@ namespace Amylian\Doctrine\Common;
  */
 interface EventManagerInterface
 {
-    //put your code here
 }
